@@ -81,7 +81,7 @@ const renderRange = (range) => {
       teen.textContent = value.teen;
       youngAdult.textContent = value.youngAdult;
       genre.textContent = value.genre;
-      return;
+      return; 
     }
 
     if (key === 'times') {
