@@ -1,7 +1,8 @@
 # Project Brief
-A modern content strategy dashboard for Banana Books. Banana Books is a small, local bookstore that specializes in young adult fiction and graphic novels. They want to garner a larger social media following on TikTok so that they can grow as a business. This dashboard will be used primarily on a mobile device by a social media manager. 
+A modern content strategy dashboard for Banana Books. Banana Books is a small, local bookstore that specializes in young adult fiction and graphic novels. They want to garner a larger social media following on TikTok so that they can grow as a business. This dashboard will be used primarily on a tablet device by a social media manager. 
 
 ## Tech
+- Create a new Vue project
 - Deploys to Vercel as a static site 
 
 ## Design
