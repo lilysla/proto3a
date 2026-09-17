@@ -1,0 +1,1 @@
+A mobile-first content strategy dashboard for Banana Books, designed for a social media manager tracking TikTok performance for YA fiction and graphic novels.
