@@ -24,4 +24,5 @@ A modern content strategy dashboard for Banana Books. Banana Books is a small, l
 
 ## Nice to Haves
 - Trending audio and video ideas
+- Save ideas for future
 - Animations for graphs and charts
